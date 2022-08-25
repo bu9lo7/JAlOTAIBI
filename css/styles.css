@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 106, 50, 159;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -237,7 +237,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #6a329f;
   text-decoration: underline;
 }
 a:hover {
@@ -11340,7 +11340,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #4466cc;
 }
 
 @media (min-width: 992px) {
@@ -11364,7 +11364,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(225, 67, 80, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
