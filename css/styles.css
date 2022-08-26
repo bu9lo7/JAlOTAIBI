@@ -64,6 +64,20 @@
   --bs-body-bg: #fff;
 }
 
+.center {
+  display: block;
+  margin-left: 2cm;
+  margin-right: auto;
+  margin-top: 3cm;
+  margin-bottom: 0cm;
+  width: 50%;
+}
+
+img {
+  border-radius: 50%;
+}
+
+
 *,
 *::before,
 *::after {
